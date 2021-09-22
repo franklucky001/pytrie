@@ -12,5 +12,5 @@ rust implement trie tree from python
 - maturin build --release, build python wheel file
 
 # todo 
-- suppert trie remove_prefix api
+- support trie remove_prefix api
 - serialize use protobuf
