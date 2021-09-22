@@ -1,5 +1,5 @@
 # pytrie
-rust implement trie tree from python
+rust implement trie tree for python
 
 # usage
 1. install rust first
