@@ -5,7 +5,7 @@ edition = "2021"
 
 [lib]
 name = "trie_rs"
-crate-type = ["cdylib", "dylib"]
+crate-type = ["rlib"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
